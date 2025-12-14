@@ -48,21 +48,6 @@
 
 ---
 
-## 📱 Featured Projects
-
-🚀 **Flutter API App**  
-> Mobile app with REST API integration & modern UI
-
-📊 **Student Management App**  
-> Flutter CRUD app with clean architecture
-
-🎨 **Reusable Flutter Widgets**  
-> Custom widgets & animations for mobile apps
-
-✨ *More awesome projects coming soon...*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,7 +70,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:pamungkasagung847@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
