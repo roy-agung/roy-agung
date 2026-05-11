@@ -77,11 +77,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roy-agung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Roy's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roy-agung&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Roy's Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-agung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-agung&theme=tokyonight&hide_border=true&background=0D1117" alt="Roy's GitHub Streak" />
 </p>
 
 ---
