@@ -1,61 +1,87 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hi there 👋, I'm Roy Agung
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Hi%20there%20👋,%20I'm%20Roy%20Agung&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
 <h3 align="center">
-  🚀 Flutter & Mobile Developer
+  🚀 Mobile Developer | Android & Flutter Specialist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Flutter+Mobile+Developer;Learning+Clean+Architecture;Building+Modern+UI;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Flutter+Mobile+Developer;Mastering+GetX+%26+Clean+Architecture;Crafting+Aesthetic+Modern+UIs;Consuming+APIs+%26+Building+Experiences" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **Student & Junior Mobile Developer**  
-📱 Focused on **Flutter Development**  
-🎯 Passionate about **UI/UX**, **Performance**, and **Clean Code**
+🎓 **PPLG Student at SMK Wikrama Bogor & Junior Mobile Developer** 📱 Focused on **Flutter Development** & **Cross-Platform Solutions** 🎯 Passionate about **UI/UX**, **Performance**, and **Clean Code**
 
-- 🔭 Currently building **Flutter mobile apps**
-- 🌱 Learning **State Management & REST API**
-- 💡 Love crafting **modern UI**
-- 🇮🇩 Based in Indonesia
+- 🔭 Currently building **Flutter mobile apps** and **Web CMS UIs**
+- 🌱 Deepening knowledge in **GetX State Management**, **REST API Integration**, and **Clean Architecture**
+- 💡 Love crafting **modern, aesthetic UIs** following Material Design principles
+- 🇮🇩 Based in Bogor, Indonesia
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>📱 Mobile Dev & State</h3>
+    </td>
+    <td align="center" width="25%">
+      <h3>🌐 Backend & CMS</h3>
+    </td>
+    <td align="center" width="25%">
+      <h3>🗄️ Database</h3>
+    </td>
+    <td align="center" width="25%">
+      <h3>☁️ Cloud & Deploy</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Google_Sign_In-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### 🌐 Backend & API
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚙️ Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=spacex&logoColor=white">
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roy-agung&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roy-agung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Roy's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-agung&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-agung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
@@ -77,11 +103,13 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 15px;"/>
 </p>
-
----
 
 <h3 align="center">
   ✨ "Build once, run beautifully everywhere." ✨
 </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%" />
+</p>
